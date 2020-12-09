@@ -1,0 +1,21 @@
+h1, h2 {
+    color: #ff4f57;
+}
+
+a {
+    color: #ff4f57;
+    font-weight: bold;
+}
+
+table {
+    border-collapse: collapse;
+}
+
+table th, table td {
+    padding: 5px;
+}
+
+.error {
+    color: red;
+    font-style: italic;
+}
